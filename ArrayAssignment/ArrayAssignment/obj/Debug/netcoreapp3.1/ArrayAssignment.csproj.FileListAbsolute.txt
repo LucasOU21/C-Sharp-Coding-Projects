@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\netcoreapp3.1\ArrayAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\netcoreapp3.1\ArrayAssignment.genruntimeconfig.cache
