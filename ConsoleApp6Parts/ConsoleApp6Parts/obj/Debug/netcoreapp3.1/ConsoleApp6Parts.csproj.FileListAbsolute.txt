@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\bin\Debug\netcoreapp3.1\ConsoleApp6Parts.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\bin\Debug\netcoreapp3.1\ConsoleApp6Parts.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\bin\Debug\netcoreapp3.1\ConsoleApp6Parts.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\bin\Debug\netcoreapp3.1\ConsoleApp6Parts.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\bin\Debug\netcoreapp3.1\ConsoleApp6Parts.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\bin\Debug\netcoreapp3.1\ConsoleApp6Parts.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\netcoreapp3.1\ConsoleApp6Parts.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\netcoreapp3.1\ConsoleApp6Parts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\netcoreapp3.1\ConsoleApp6Parts.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\netcoreapp3.1\ConsoleApp6Parts.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\netcoreapp3.1\ConsoleApp6Parts.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\netcoreapp3.1\ConsoleApp6Parts.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\netcoreapp3.1\ConsoleApp6Parts.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\netcoreapp3.1\ConsoleApp6Parts.genruntimeconfig.cache
