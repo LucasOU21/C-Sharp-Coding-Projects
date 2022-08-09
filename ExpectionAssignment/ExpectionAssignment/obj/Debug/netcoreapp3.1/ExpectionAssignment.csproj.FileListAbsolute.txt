@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\obj\Debug\netcoreapp3.1\ExpectionAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\obj\Debug\netcoreapp3.1\ExpectionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\obj\Debug\netcoreapp3.1\ExpectionAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\obj\Debug\netcoreapp3.1\ExpectionAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\obj\Debug\netcoreapp3.1\ExpectionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\bin\Debug\netcoreapp3.1\ExpectionAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\bin\Debug\netcoreapp3.1\ExpectionAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\bin\Debug\netcoreapp3.1\ExpectionAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\bin\Debug\netcoreapp3.1\ExpectionAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\bin\Debug\netcoreapp3.1\ExpectionAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\bin\Debug\netcoreapp3.1\ExpectionAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\obj\Debug\netcoreapp3.1\ExpectionAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\obj\Debug\netcoreapp3.1\ExpectionAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExpectionAssignment\ExpectionAssignment\obj\Debug\netcoreapp3.1\ExpectionAssignment.genruntimeconfig.cache
