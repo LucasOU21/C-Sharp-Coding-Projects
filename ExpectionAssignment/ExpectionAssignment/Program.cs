@@ -27,7 +27,7 @@ namespace ExpectionAssignment
                 }
                 catch (DivideByZeroException)
                 {
-                    Console.WriteLine("do not divide by zero.");
+                    Console.WriteLine("don't divide by zero.");
                 }
                 catch (FormatException)
                 {

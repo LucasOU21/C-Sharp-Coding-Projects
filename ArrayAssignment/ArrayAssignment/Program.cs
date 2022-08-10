@@ -47,7 +47,7 @@ namespace ArrayAssignment
             }
             else
             {
-                Console.WriteLine("You have typed the wrong number, No Winnings!!!, PLease try again!");
+                Console.WriteLine("You have typed the wrong number, No Winnings!!!");
             }
 
             Console.ReadLine();
