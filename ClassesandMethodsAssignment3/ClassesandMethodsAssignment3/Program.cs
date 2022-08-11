@@ -19,7 +19,7 @@ namespace ClassesandMethodsAssignment3
             {
 
                 Console.Write("\n\nMethod to calculate the sum of two numbers :\n");
-                Console.Write("--------------------------------------------------\n");
+               
 
 
                 Console.Write("Type any number: ");
