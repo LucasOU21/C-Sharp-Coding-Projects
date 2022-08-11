@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AmKYJ10TT4edCn32Hi+LIeKxzLQbwNSsBVdlsTbAENw/b1oaJFUU10c16Ca6YNUmamDz8IUxSQSUE7iYyIQ0UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\C-Sharp-Coding-Projects\\Class Method\\Class Method\\Class Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
