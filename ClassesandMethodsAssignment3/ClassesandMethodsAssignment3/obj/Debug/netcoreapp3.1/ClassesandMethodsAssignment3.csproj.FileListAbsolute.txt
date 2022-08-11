@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\bin\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\bin\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\bin\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\bin\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\bin\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\bin\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ClassesandMethodsAssignment3\ClassesandMethodsAssignment3\obj\Debug\netcoreapp3.1\ClassesandMethodsAssignment3.genruntimeconfig.cache
