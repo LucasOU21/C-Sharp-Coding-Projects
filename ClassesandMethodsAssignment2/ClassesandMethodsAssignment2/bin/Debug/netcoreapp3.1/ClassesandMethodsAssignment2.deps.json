@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ClassesandMethodsAssignment2/1.0.0": {
+        "runtime": {
+          "ClassesandMethodsAssignment2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassesandMethodsAssignment2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
