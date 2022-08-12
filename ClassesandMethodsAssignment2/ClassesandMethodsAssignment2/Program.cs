@@ -13,7 +13,7 @@ namespace ClassesandMethodsAssignment2
         {
             Console.WriteLine("Please Enter first number:");
             int e = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("No need to enter second number:");
+            Console.WriteLine("Enter second number:");
             string d = Console.ReadLine();
 
             var operatorObject = new Operators();
