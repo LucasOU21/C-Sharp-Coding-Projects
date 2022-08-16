@@ -23,6 +23,8 @@ namespace Class_Method
             Vmethod.Division(y / z);
 
 
+
+
             Console.ReadLine();
         }
     }

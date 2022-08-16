@@ -15,11 +15,12 @@ namespace Class_Method
 
         }
 
-        public static void Division(int y, int z)
+        public static double Division(int y, int z)
 
         {
             int total = y / z;
-            Console.WriteLine(total);
+            return total;
         }
+
     }
 }
