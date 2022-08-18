@@ -6,6 +6,12 @@ namespace Class_Method
 {
     class Vmethod
     {
+        public static void Math_Calc(int userInput, out int quotient, out int sum)
+        {
+            sum = userInput + 2;
+            quotient = userInput / 2;
+        }
+
         public static void Division(int x)
         {
             {
@@ -20,6 +26,11 @@ namespace Class_Method
         {
             int total = y / z;
             return total;
+        }
+
+        public static double Math_Calc(double userInput, double quotient)
+        {
+            return userInput + quotient;
         }
 
     }

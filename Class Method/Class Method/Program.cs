@@ -12,6 +12,13 @@ namespace Class_Method
         {
             Vmethod obj = new Vmethod();
 
+            Console.WriteLine("Enter a number:");
+            int userInput = Convert.ToInt32(Console.ReadLine());
+            int q, s, a = userInput;
+
+            Vmethod.Math_Calc(a, out q, out s);
+            double m = Vmethod.Math_Calc(a, q);
+
             Console.WriteLine("x : 2 = y");
             Console.WriteLine("Type an positive whole number");
             int userValue = Convert.ToInt32(Console.ReadLine());
@@ -21,6 +28,10 @@ namespace Class_Method
             int y = 12;
             int z = 8;
             Vmethod.Division(y / z);
+
+
+            Console.WriteLine("The quotient after dividing {0} by {1}: {2} ,  adding  2 : {3}", a, 2, q, s);
+            Console.WriteLine("The sum of quotient after adding " + a + " is " + m);
 
 
 
