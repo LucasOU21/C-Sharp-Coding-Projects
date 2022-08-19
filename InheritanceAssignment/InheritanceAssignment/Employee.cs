@@ -16,10 +16,6 @@ namespace InheritanceAssignment
 
             base.SayName();
             Console.WriteLine("Employee ID: {0}", id);
-
-            //Console.WriteLine("FirstName: {0}", FirstName);
-            //Console.WriteLine("LastName: {0}", LastName);
-
             Console.ReadLine();
         }
        
