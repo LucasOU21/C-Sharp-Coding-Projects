@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.1\InheritanceAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.1\InheritanceAssignment.genruntimeconfig.cache

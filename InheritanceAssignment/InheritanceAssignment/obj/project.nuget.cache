@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NtpWDa+2Tx+n5OMMCjLtyyaTGNQq1kJbsfO6ritT4iI1Qj8zGZQWgLVkqV77GNZSbITYAGbfrY6Bctq3J9N2kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\C-Sharp-Coding-Projects\\InheritanceAssignment\\InheritanceAssignment\\InheritanceAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
