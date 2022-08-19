@@ -21,12 +21,6 @@ namespace Class_Method
 
         }
 
-        public static double Division(int y, int z)
-
-        {
-            int total = y / z;
-            return total;
-        }
 
         public static double Math_Calc(double userInput, double quotient)
         {

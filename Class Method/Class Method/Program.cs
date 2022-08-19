@@ -11,6 +11,7 @@ namespace Class_Method
         public static void Main(string[] args)
         {
             Vmethod obj = new Vmethod();
+            DoubleC obj = new DoubleC();
 
             Console.WriteLine("Enter a number:");
             int userInput = Convert.ToInt32(Console.ReadLine());
