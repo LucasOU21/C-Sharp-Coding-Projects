@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\bin\Debug\netcoreapp3.1\Abstractproject.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\bin\Debug\netcoreapp3.1\Abstractproject.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\bin\Debug\netcoreapp3.1\Abstractproject.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\bin\Debug\netcoreapp3.1\Abstractproject.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\bin\Debug\netcoreapp3.1\Abstractproject.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\bin\Debug\netcoreapp3.1\Abstractproject.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\obj\Debug\netcoreapp3.1\Abstractproject.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\obj\Debug\netcoreapp3.1\Abstractproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\obj\Debug\netcoreapp3.1\Abstractproject.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\obj\Debug\netcoreapp3.1\Abstractproject.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\obj\Debug\netcoreapp3.1\Abstractproject.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\obj\Debug\netcoreapp3.1\Abstractproject.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\obj\Debug\netcoreapp3.1\Abstractproject.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\Abstractproject\Abstractproject\obj\Debug\netcoreapp3.1\Abstractproject.genruntimeconfig.cache
