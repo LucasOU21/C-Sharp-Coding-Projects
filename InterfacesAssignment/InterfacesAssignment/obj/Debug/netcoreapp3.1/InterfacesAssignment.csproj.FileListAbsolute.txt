@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.1\InterfacesAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.1\InterfacesAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.1\InterfacesAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.1\InterfacesAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.1\InterfacesAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.1\InterfacesAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.1\InterfacesAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.1\InterfacesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.1\InterfacesAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.1\InterfacesAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.1\InterfacesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.1\InterfacesAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.1\InterfacesAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.1\InterfacesAssignment.genruntimeconfig.cache

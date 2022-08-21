@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qNoXZSoTS4iBLovHeh6zB/d5Ed5naASwjK4Xh7KIvXEn5e+pJv+8s18xYGkDNbxEzbX81BkFBwbeKPfVSzbvXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\C-Sharp-Coding-Projects\\InterfacesAssignment\\InterfacesAssignment\\InterfacesAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
