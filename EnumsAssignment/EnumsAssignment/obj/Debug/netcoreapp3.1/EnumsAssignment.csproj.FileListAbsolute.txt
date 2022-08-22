@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\bin\Debug\netcoreapp3.1\EnumsAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\EnumsAssignment\EnumsAssignment\obj\Debug\netcoreapp3.1\EnumsAssignment.genruntimeconfig.cache

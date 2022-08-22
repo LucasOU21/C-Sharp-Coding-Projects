@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xACp8G7fr34YfEsebHyT+OVdINycAGnF/OLcBuIjnP1Sf96WmaQwcHwMkvr/ek2xYh3NGkqhGUOVOG0QsJ36YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\C-Sharp-Coding-Projects\\EnumsAssignment\\EnumsAssignment\\EnumsAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
