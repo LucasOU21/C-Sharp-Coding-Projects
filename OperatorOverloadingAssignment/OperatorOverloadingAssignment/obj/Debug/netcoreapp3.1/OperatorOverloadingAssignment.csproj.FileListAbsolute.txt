@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadingAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadingAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadingAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadingAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadingAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadingAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadingAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadingAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\netcoreapp3.1\OperatorOverloadingAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadingAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadingAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\netcoreapp3.1\OperatorOverloadingAssignment.genruntimeconfig.cache

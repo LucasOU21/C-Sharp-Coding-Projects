@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M/j+WjpJhiCRbj6Z+WUYQ77Uy5mLYXt9dhZ7gT/MdtxfE3JTbiNLIAn/w527pqStveIiDoh0Ey8ccseUmUoAjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\C-Sharp-Coding-Projects\\OperatorOverloadingAssignment\\OperatorOverloadingAssignment\\OperatorOverloadingAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
