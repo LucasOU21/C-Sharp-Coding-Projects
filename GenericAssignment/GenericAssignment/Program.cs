@@ -27,13 +27,13 @@ namespace GenericAssignment
                 "James",
                 "Wendy"
             };
-            foreach (int mm in employeeID.info)
+            foreach (int ll in employeeID.info)
             {
-                Console.WriteLine(mm);
+                Console.WriteLine(ll);
             }
-            foreach (string nn in employeeNames.info)
+            foreach (string bb in employeeNames.info)
             {
-                Console.WriteLine(nn);
+                Console.WriteLine(bb);
             }
             Console.ReadLine();
         }
