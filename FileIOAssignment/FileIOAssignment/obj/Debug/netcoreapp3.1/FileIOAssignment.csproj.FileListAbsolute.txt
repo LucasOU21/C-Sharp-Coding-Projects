@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.1\FileIOAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.1\FileIOAssignment.genruntimeconfig.cache
