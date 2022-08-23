@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3R+hFhCSyOnorQA8J9gbWylW6EjGTDeQ2DgwlB3QiQMJDXoYW8UWHSBto3IWJQBjHFBYWfsHSjAsg0nnth0TAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\C-Sharp-Coding-Projects\\LambdaExpressionAssignment\\LambdaExpressionAssignment\\LambdaExpressionAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
