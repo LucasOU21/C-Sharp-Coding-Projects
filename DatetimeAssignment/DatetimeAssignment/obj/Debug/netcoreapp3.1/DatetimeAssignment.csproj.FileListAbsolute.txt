@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.1\DatetimeAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.1\DatetimeAssignment.genruntimeconfig.cache

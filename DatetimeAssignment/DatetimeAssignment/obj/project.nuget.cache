@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ulP2CK0WfVAHyOz7ymp7CRmKKXlrlD03bNQTBT5+9xjfYwfswC9FUKignaT9sS5msGvdL603szD6SXGW+0PtCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\C-Sharp-Coding-Projects\\DatetimeAssignment\\DatetimeAssignment\\DatetimeAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
