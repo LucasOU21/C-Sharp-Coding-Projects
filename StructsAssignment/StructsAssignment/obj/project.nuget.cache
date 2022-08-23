@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JJAPNK9I5qEVsI1sgS8Z5SHVEICSDmXJ2lUVrYRp8MH+6l2b2jFQGQwE//2Wu1hmsArbf3Qt99ELSWrYNcndbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\C-Sharp-Coding-Projects\\StructsAssignment\\StructsAssignment\\StructsAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

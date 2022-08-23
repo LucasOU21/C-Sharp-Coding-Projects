@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.1\StructsAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.1\StructsAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.1\StructsAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.1\StructsAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.1\StructsAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.1\StructsAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.1\StructsAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.1\StructsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.1\StructsAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.1\StructsAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.1\StructsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.1\StructsAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.1\StructsAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.1\StructsAssignment.genruntimeconfig.cache
