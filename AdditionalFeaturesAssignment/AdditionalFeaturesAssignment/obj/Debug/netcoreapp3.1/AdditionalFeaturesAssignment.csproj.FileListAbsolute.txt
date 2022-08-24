@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.1\AdditionalFeaturesAssignment.genruntimeconfig.cache
