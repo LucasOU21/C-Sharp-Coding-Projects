@@ -20,11 +20,11 @@ namespace AdditionalFeaturesAssignment
             Console.WriteLine("\n*Measures* {0}", clientName);
         
 
-            var newAddition = new Addition("155");
+            //var newAddition = new Addition("155");
             var Int = 150;
             if (Int > 140)
             {
-                Console.WriteLine("\nYou can go on the ride {0}", clientName);
+                Console.WriteLine("\nYou can go on the ride {0} Enjoy!", clientName);
             }
 
             Console.ReadLine();

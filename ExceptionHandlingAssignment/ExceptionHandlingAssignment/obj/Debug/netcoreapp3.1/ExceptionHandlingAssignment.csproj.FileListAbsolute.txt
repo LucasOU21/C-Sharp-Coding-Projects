@@ -1,0 +1,14 @@
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.exe
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.deps.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.runtimeconfig.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.runtimeconfig.dev.json
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.1\ExceptionHandlingAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.csproj.AssemblyReference.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.AssemblyInfoInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.AssemblyInfo.cs
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.dll
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.pdb
+C:\Users\lucas\All my code\C-Sharp-Coding-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.1\ExceptionHandlingAssignment.genruntimeconfig.cache

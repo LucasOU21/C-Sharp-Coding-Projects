@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AbK/wXOUwqw+rq0iyagbpN1RuLZI8pM/LK9/zbAhtBE32IvEzwJlCMwCg7KmAt3KYf2utnc0jP3/GpG+7GEolA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas\\All my code\\C-Sharp-Coding-Projects\\ExceptionHandlingAssignment\\ExceptionHandlingAssignment\\ExceptionHandlingAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
