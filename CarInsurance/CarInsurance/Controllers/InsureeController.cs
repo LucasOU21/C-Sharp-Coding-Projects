@@ -48,70 +48,20 @@ namespace CarInsurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Quote(int Id, string FirstName, string LastName, string EmailAddress, DateTime DateOfBirth, int CarYear, string CarMake, string CarModel, string DUI, int SpeedingTickets, string CoverageType)
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
             if (ModelState.IsValid)
             {
-               
-                        int age = DateTime.Now.Year - DateOfBirth.Year;
+                db.Insurees.Add(insuree);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
 
-                        // Starting Monthly base
-                        double Quote = 50.0;
+            return View(insuree);
+        }
 
-                        // Calculating the Age
-                        if (age <= 18)
-                        {
-                            Quote += 100;
-                        }
-                        if (age >= 19 && age <= 25)
-                        {
-                            Quote += 50;
-                        }
-                        if (age > 25)
-                        {
-                            Quote += 25;
-                        }
-                        // Calculating Car Models
-                        int car = DateTime.Now.Year;
-                 if (CarYear < 2000) Quote += 25;
-
-                else if (CarYear > 2015) Quote += 25;
-                        {
-                            Quote += 25;
-                        }
-                        if (CarMake == "Porsche")
-                        {
-                            Quote += 25;
-                        }
-                        if (CarMake == "Porsche" && CarModel == "911 Carrera")
-                        {
-                            Quote += 25;
-                        }
-                        // Adding SpeedingTickets
-                        if (SpeedingTickets >= 1)
-                        {
-                            int TicketsTotal = SpeedingTickets * 10;
-                            Quote += TicketsTotal;
-                        }
-                        // Adding DUI %
-                        if (DUI == "Yes")
-                        {
-                            Quote *= 1.25;
-                        }
-                        if (CoverageType == "Full")
-                        {
-                            Quote *= 1.5;
-                        }
-                        db.Insurees.Add(insuree);
-                        db.SaveChanges();
-                        return RedirectToAction("Index");
-                    }
-                      
-                    return View(Insuree);
-                }
-
-                // GET: Insuree/Edit/5
-                public ActionResult Edit(int? id)
+        // GET: Insuree/Edit/5
+        public ActionResult Edit(int? id)
         {
             if (id == null)
             {
@@ -176,6 +126,66 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
+        [HttpPost]
+        public ActionResult Quote(int Id, string FirstName, string LastName, string EmailAddress, DateTime DateOfBirth, int CarYear, string CarMake, string CarModel, string DUI, int SpeedingTickets, string CoverageType)
+        {
 
+            int age = DateTime.Now.Year - DateOfBirth.Year;
+
+            // Starting Monthly base
+            double Quote = 50.0;
+
+            // Calculating the Age
+            if (age <= 18)
+            {
+                Quote += 100;
+            }
+            if (age >= 19 && age <= 25)
+            {
+                Quote += 50;
+            }
+            if (age > 25)
+            {
+                Quote += 25;
+            }
+            // Calculating Car Models
+            int car = DateTime.Now.Year;
+            if (CarYear < 2000) Quote += 25;
+
+            else if (CarYear > 2015) Quote += 25;
+            {
+                Quote += 25;
+            }
+            if (CarMake == "Porsche")
+            {
+                Quote += 25;
+            }
+            if (CarMake == "Porsche" && CarModel == "911 Carrera")
+            {
+                Quote += 25;
+            }
+            // Adding SpeedingTickets
+            if (SpeedingTickets >= 1)
+            {
+                int TicketsTotal = SpeedingTickets * 10;
+                Quote += TicketsTotal;
+            }
+            // Adding DUI %
+            if (DUI == "Yes")
+            {
+                Quote *= 1.25;
+            }
+            if (CoverageType == "Full")
+            {
+                Quote *= 1.5;
+            }
+
+
+            {
+                return View(Quote);
+            }
+
+
+        }
     }
 }
