@@ -48,20 +48,70 @@ namespace CarInsurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+        public ActionResult Quote(int Id, string FirstName, string LastName, string EmailAddress, DateTime DateOfBirth, int CarYear, string CarMake, string CarModel, string DUI, int SpeedingTickets, string CoverageType)
         {
             if (ModelState.IsValid)
             {
-                db.Insurees.Add(insuree);
-                db.SaveChanges();
-                return RedirectToAction("Index");
-            }
+               
+                        int age = DateTime.Now.Year - DateOfBirth.Year;
 
-            return View(insuree);
-        }
+                        // Starting Monthly base
+                        double Quote = 50.0;
 
-        // GET: Insuree/Edit/5
-        public ActionResult Edit(int? id)
+                        // Calculating the Age
+                        if (age <= 18)
+                        {
+                            Quote += 100;
+                        }
+                        if (age >= 19 && age <= 25)
+                        {
+                            Quote += 50;
+                        }
+                        if (age > 25)
+                        {
+                            Quote += 25;
+                        }
+                        // Calculating Car Models
+                        int car = DateTime.Now.Year;
+                 if (CarYear < 2000) Quote += 25;
+
+                else if (CarYear > 2015) Quote += 25;
+                        {
+                            Quote += 25;
+                        }
+                        if (CarMake == "Porsche")
+                        {
+                            Quote += 25;
+                        }
+                        if (CarMake == "Porsche" && CarModel == "911 Carrera")
+                        {
+                            Quote += 25;
+                        }
+                        // Adding SpeedingTickets
+                        if (SpeedingTickets >= 1)
+                        {
+                            int TicketsTotal = SpeedingTickets * 10;
+                            Quote += TicketsTotal;
+                        }
+                        // Adding DUI %
+                        if (DUI == "Yes")
+                        {
+                            Quote *= 1.25;
+                        }
+                        if (CoverageType == "Full")
+                        {
+                            Quote *= 1.5;
+                        }
+                        db.Insurees.Add(insuree);
+                        db.SaveChanges();
+                        return RedirectToAction("Index");
+                    }
+                      
+                    return View(Insuree);
+                }
+
+                // GET: Insuree/Edit/5
+                public ActionResult Edit(int? id)
         {
             if (id == null)
             {
@@ -126,107 +176,6 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
-        public decimal CalculateQuote(Insuree insuree)
-        {
-            decimal Quote = 50;
-            decimal agePrice;
-            decimal yearPrice;
-            decimal carPrice;
-            decimal ticketPrice;
-            decimal duiPrice;
-            decimal coveragePrice;
-            
-            
 
-            //figure out the insuree's age
-            var today = DateTime.Today;
-            var ageInDays = today.Subtract(insuree.DateOfBirth).TotalDays;
-            var insureeAge = (ageInDays / 365); 
-
-            
-            //if 18 and under
-            if (insureeAge <= 18) 
-                {
-                    agePrice = 100;
-                }
-
-                else if (insureeAge > 18 && insureeAge < 26)
-                {
-                    agePrice = 50;
-                }
-
-                else
-                {
-                    agePrice = 25;
-                }
-
-           if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
-            {
-                yearPrice = 25;
-            }
-               else
-                {
-                    yearPrice = 0;
-                }
-
-           if (insuree.CarMake == "Porsche")
-            {
-                carPrice = 25;
-                if (insuree.CarModel == "911 Carrera")
-                {
-                    carPrice = 50;
-                }
-            }
-                else
-                {
-                    carPrice = 0;
-                }
-
-
-            //speeding ticket
-            if (insuree.SpeedingTickets >= 1)
-            {
-                ticketPrice = insuree.SpeedingTickets * 10;
-                
-            }
-            else
-            {
-                ticketPrice = insuree.SpeedingTickets;
-            }
-
-            decimal total = Quote
-                + agePrice
-                + yearPrice
-                + carPrice
-                + ticketPrice;
-
-            ////DUI
-            if (insuree.DUI == true)
-            {
-                duiPrice = total * 1.25M; 
-            }
-            else
-            {
-                duiPrice = total;
-            }
-
-            //full coverage
-            if (insuree.CoverageType == true)
-            {
-                coveragePrice  = duiPrice * 1.5M;
-            }
-            else
-            {
-                coveragePrice = duiPrice;
-            }
-
-            return coveragePrice;
-        }
-
-        public ActionResult Admin()
-        {
-            return View("Admin");
-
-        }
     }
 }
