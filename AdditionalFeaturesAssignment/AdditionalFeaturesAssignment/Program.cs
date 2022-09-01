@@ -18,13 +18,17 @@ namespace AdditionalFeaturesAssignment
             Console.WriteLine("If you want to go on the ride you need to be at least 150cm");
            
             Console.WriteLine("\n*Measures* {0}", clientName);
-        
 
-            //var newAddition = new Addition("155");
+
+            var Addition = new Addition("150");
             var Int = 150;
             if (Int > 140)
+
             {
-                Console.WriteLine("\nYou can go on the ride {0} Enjoy!", clientName);
+                Console.WriteLine(Addition.Speak());
+            }
+            {
+                Console.WriteLine("\n {0} Enjoy the Ride!", clientName);
             }
 
             Console.ReadLine();

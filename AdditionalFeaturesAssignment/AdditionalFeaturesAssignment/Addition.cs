@@ -8,5 +8,10 @@
         {
             this.v = v;
         }
+
+        public string Speak()
+        {
+            return "\n You can go on the ride";
+        }
     }
 }
