@@ -10,12 +10,12 @@ namespace Vclass
 {
 	public class Class1
 	{
-        public static void Sum(int num1, int num2)
+        public void Sum(int num1, int num2)
 
         {
             int total;
             total = num1 + num2;
-            Console.WriteLine($"The total is: {num1} + {num2} =" + (num1 + num2)); 
+            Console.WriteLine($"The total is: {num1} + {num2} =" + (num1 + num2));
         }
     }
 }
