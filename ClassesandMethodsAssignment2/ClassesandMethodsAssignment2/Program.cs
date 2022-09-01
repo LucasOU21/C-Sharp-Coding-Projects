@@ -15,6 +15,7 @@ namespace ClassesandMethodsAssignment2
             Operators operators = new Operators();
             Console.WriteLine("Please Enter An Positive Whole Integer:");
             int e = Convert.ToInt32(Console.ReadLine());
+            
 
             try
             {
@@ -24,9 +25,12 @@ namespace ClassesandMethodsAssignment2
                 Console.WriteLine("Now the two integers will be added = \n" 
                     + operators.Add(e, d));
             }
-            catch (FormatException)
+            catch 
             {
-                Console.WriteLine("The only number was typed is" + e);
+                int d = 32;
+                Console.WriteLine("The only number was typed is " + (e));
+                Console.WriteLine("Adding it to the default Value which =\n" + operators.Add(e + d));
+
             }
             finally
             {
