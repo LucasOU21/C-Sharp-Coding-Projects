@@ -7,12 +7,10 @@ namespace ClassesandMethodsAssignment2
     class Operators
     {
         
-        public int Add(int e, int d = 32)
-
-
+        public int Add(int e, int optionalint = 32)
 
         {
-            return e + d;
+            return e + optionalint;
 
         }
     }

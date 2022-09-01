@@ -10,28 +10,28 @@ namespace ClassesandMethodsAssignment2
     class Program
     {
         static void Main(string[] args)
+
         {
-            Console.WriteLine("Please Enter first number:");
+            Operators operators = new Operators();
+            Console.WriteLine("Please Enter An Positive Whole Integer:");
             int e = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Enter second number:");
-            string d = Console.ReadLine();
 
-            var operatorObject = new Operators();
-            int result = operatorObject.Add(e);
-
-            if (d == " ")
+            try
             {
-                int c = Convert.ToInt32(d);
-                Console.WriteLine(operatorObject.Add(c));
-            }
+                Console.WriteLine("Enter another Integer or you may leave it blank.");
+                int d = Convert.ToInt32(Console.ReadLine());
 
-            else
+                Console.WriteLine("Now the two integers will be added = \n" 
+                    + operators.Add(e, d));
+            }
+            catch (FormatException)
             {
-                Console.WriteLine(result);
-
+                Console.WriteLine("The only number was typed is" + e);
             }
-
-            Console.ReadLine();
+            finally
+            {
+                Console.ReadLine();
+            }
         }
     }
 }
